@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "s8SKrGiYpMpp8o16UtPiODvsek7/QV2WthVR+aBSkkINb4FtY8A1DAzKpWuVGKKo0VyxBVfbral0uwG67oyCTA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Eylul Gokce\\Desktop\\Medizinische Entscheidungsunterstützung\\840.080\\project1\\DDIConsole\\DDIConsole.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Eylul Gokce\\.nuget\\packages\\tinycsvparser\\2.5.2\\tinycsvparser.2.5.2.nupkg.sha512",
+    "C:\\Users\\Eylul Gokce\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x64\\3.1.5\\microsoft.windowsdesktop.app.runtime.win-x64.3.1.5.nupkg.sha512",
+    "C:\\Users\\Eylul Gokce\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x64\\3.1.5\\microsoft.netcore.app.runtime.win-x64.3.1.5.nupkg.sha512",
+    "C:\\Users\\Eylul Gokce\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x64\\3.1.5\\microsoft.aspnetcore.app.runtime.win-x64.3.1.5.nupkg.sha512"
+  ],
+  "logs": []
+}

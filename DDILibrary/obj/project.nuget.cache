@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "qLJ5SROl7gqI2uMBS42yLyzlsnm/2cjo6HhY0mg46VqnKEaXj6AJT+Zm2JDfLvArgZxlVpIKpObMByrf7ffkvg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Eylul Gokce\\Desktop\\Medizinische Entscheidungsunterstützung\\840.080\\project1\\DDILibrary\\DDILibrary.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Eylul Gokce\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Eylul Gokce\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\Eylul Gokce\\.nuget\\packages\\tinycsvparser\\2.5.2\\tinycsvparser.2.5.2.nupkg.sha512"
+  ],
+  "logs": []
+}

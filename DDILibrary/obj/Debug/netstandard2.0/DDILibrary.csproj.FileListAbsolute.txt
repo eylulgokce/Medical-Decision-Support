@@ -1,0 +1,9 @@
+C:\Users\Eylul Gokce\Desktop\Medizinische Entscheidungsunterstützung\840.080\project1\DDILibrary\bin\Debug\netstandard2.0\DDILibrary.deps.json
+C:\Users\Eylul Gokce\Desktop\Medizinische Entscheidungsunterstützung\840.080\project1\DDILibrary\bin\Debug\netstandard2.0\DDILibrary.dll
+C:\Users\Eylul Gokce\Desktop\Medizinische Entscheidungsunterstützung\840.080\project1\DDILibrary\bin\Debug\netstandard2.0\DDILibrary.pdb
+C:\Users\Eylul Gokce\Desktop\Medizinische Entscheidungsunterstützung\840.080\project1\DDILibrary\obj\Debug\netstandard2.0\DDILibrary.csprojAssemblyReference.cache
+C:\Users\Eylul Gokce\Desktop\Medizinische Entscheidungsunterstützung\840.080\project1\DDILibrary\obj\Debug\netstandard2.0\DDILibrary.csproj.CoreCompileInputs.cache
+C:\Users\Eylul Gokce\Desktop\Medizinische Entscheidungsunterstützung\840.080\project1\DDILibrary\obj\Debug\netstandard2.0\DDILibrary.AssemblyInfoInputs.cache
+C:\Users\Eylul Gokce\Desktop\Medizinische Entscheidungsunterstützung\840.080\project1\DDILibrary\obj\Debug\netstandard2.0\DDILibrary.AssemblyInfo.cs
+C:\Users\Eylul Gokce\Desktop\Medizinische Entscheidungsunterstützung\840.080\project1\DDILibrary\obj\Debug\netstandard2.0\DDILibrary.dll
+C:\Users\Eylul Gokce\Desktop\Medizinische Entscheidungsunterstützung\840.080\project1\DDILibrary\obj\Debug\netstandard2.0\DDILibrary.pdb

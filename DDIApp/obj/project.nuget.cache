@@ -1,0 +1,23 @@
+{
+  "version": 2,
+  "dgSpecHash": "jhP77i0/2DpvQrDmXji8KrmE8aS3tpEwBHPIVBhFXJObkLom1sSYw8tb/y/jIqPbEuw0v8YG0NcxrQvWf5bD6w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Eylul Gokce\\Desktop\\Medizinische Entscheidungsunterstützung\\840.080\\project1\\DDIApp\\DDIApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Eylul Gokce\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Eylul Gokce\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\Eylul Gokce\\.nuget\\packages\\prism.core\\7.2.0.1422\\prism.core.7.2.0.1422.nupkg.sha512",
+    "C:\\Users\\Eylul Gokce\\.nuget\\packages\\prism.forms\\7.2.0.1422\\prism.forms.7.2.0.1422.nupkg.sha512",
+    "C:\\Users\\Eylul Gokce\\.nuget\\packages\\prism.unity.forms\\7.2.0.1422\\prism.unity.forms.7.2.0.1422.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\Eylul Gokce\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.5.2\\system.runtime.compilerservices.unsafe.4.5.2.nupkg.sha512",
+    "C:\\Users\\Eylul Gokce\\.nuget\\packages\\system.threading.tasks.extensions\\4.5.2\\system.threading.tasks.extensions.4.5.2.nupkg.sha512",
+    "C:\\Users\\Eylul Gokce\\.nuget\\packages\\tinycsvparser\\2.5.2\\tinycsvparser.2.5.2.nupkg.sha512",
+    "C:\\Users\\Eylul Gokce\\.nuget\\packages\\unity.abstractions\\5.11.1\\unity.abstractions.5.11.1.nupkg.sha512",
+    "C:\\Users\\Eylul Gokce\\.nuget\\packages\\unity.container\\5.11.1\\unity.container.5.11.1.nupkg.sha512",
+    "C:\\Users\\Eylul Gokce\\.nuget\\packages\\xamarin.essentials\\1.5.2\\xamarin.essentials.1.5.2.nupkg.sha512",
+    "C:\\Users\\Eylul Gokce\\.nuget\\packages\\xamarin.essentials.interfaces\\1.5.2\\xamarin.essentials.interfaces.1.5.2.nupkg.sha512",
+    "C:\\Users\\Eylul Gokce\\.nuget\\packages\\xamarin.forms\\4.5.0.617\\xamarin.forms.4.5.0.617.nupkg.sha512"
+  ],
+  "logs": []
+}
